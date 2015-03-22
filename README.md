@@ -1,7 +1,7 @@
 # AndroidWithPebble
 
 For the full experience you can also check this repos:
-* [Watch App](github.com/fercreek/PebblePointer/tree/master/watch-app)
-* [Android App](github.com/fercreek/AndroidWithPebble)
-* [Desktop Interface](github.com/luissifu/pebble-desktop)
-* [Demo App](unity-fruit-ninja)
+* [Watch App](https://github.com/fercreek/PebblePointer/tree/master/watch-app)
+* [Android App](https://github.com/fercreek/AndroidWithPebble)
+* [Desktop Interface](https://github.com/luissifu/pebble-desktop)
+* [Demo App](https://github.com/fercreek/unity-fruit-ninja)
